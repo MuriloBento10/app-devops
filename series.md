@@ -1,6 +1,6 @@
 Listade séries:
 
-- Vikings.
+- Vikings
 - Breaking Bed
 - Lupin
 - Narcos
