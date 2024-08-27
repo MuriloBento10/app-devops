@@ -5,4 +5,3 @@ Listade séries:
 - Lupin
 - Narcos
 - Drive to survive
-- Stranger Things
