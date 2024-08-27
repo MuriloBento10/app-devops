@@ -4,3 +4,4 @@ Listade séries:
 - Breaking Bed
 - Lupin
 - Narcos
+- Senna
