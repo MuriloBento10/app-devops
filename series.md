@@ -4,3 +4,5 @@ Listade séries:
 - Breaking Bed
 - Lupin
 - Narcos
+- Drive to survive
+- Stranger Things
